@@ -1,5 +1,5 @@
 # GRU-MLRU - Modeling multi-regional temporal correlation with gated recurrent unit and multiple linear regression for urban traffic flow prediction
- Traffic Flow Prediction
+ # Traffic Flow Prediction
 Paper : ‘Modeling multi-regional temporal correlation with gated recurrent unit and multiple linear regression for urban traffic flow prediction’ , Rajeh, Taha M., Tianrui Li, Chongshou Li, Muhammad Hafeez Javed, Zhpeng Luo, and Fares Alhaek, In Knowledge-Based Systems. 2022 Dec 28:110237.
 # Introduction
 This repo contains datasets for predicting traffic flow within the Second Ring Road of Chengdu and Xi'an cities, China for two months, between Oct 1st and Nov 30, 2016, derived from the ordered datasets of the ride requests collected by DiDi company https://gaia.didichuxing.com.
