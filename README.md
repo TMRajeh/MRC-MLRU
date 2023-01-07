@@ -14,5 +14,5 @@ This repo contains datasets for predicting traffic flow within the Second Ring R
 *	Avg_time: The average time between the start time(From_time) and end time (To_time)
 *	Timestamp : represents the sample number
 	Cnt : represents the traffic value.
-# To cite this dataset and for more information about the data:
-Rajeh, Taha M., Tianrui Li, Chongshou Li, Muhammad Hafeez Javed, Zhpeng Luo, and Fares Alhaek. "Modeling multi-regional temporal correlation with gated recurrent unit and multiple linear regression for urban traffic flow prediction." Knowledge-Based Systems (2022): 110237.
+# To cite this dataset and for more information see the appendix :
+T. M. Rajeh, T. Li, C. Li, M. H. Javed, Z. Luo, and F. Alhaek, “Modeling multi-regional temporal correlation with gated recurrent unit and multiple linear regression for urban traffic flow prediction,” Knowledge-Based Systems, vol. 262, p. 110237, 2023. [Online]. Available: https://www.sciencedirect.com/science/article/pii/S0950705122013338
